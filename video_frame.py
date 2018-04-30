@@ -16,8 +16,8 @@ def getMacroblocks(frame):
     return mb
 
 
-def calculateSFD(frame1, frame0):
-    sfd = list()
+def calculateFD(frame1, frame0):
+    fd = list()
     sum0 = 0
     for i in range(len(frame1)):
         for j in range(16):
@@ -38,10 +38,14 @@ def calculateSFD(frame1, frame0):
                 else:
                     sum0 = sum0 + (int(frame0[i][j][k][2]) - int(frame1[i][j][k][2]))
 
-        sfd.append(sum0)
+        fd.append(sum0)
         sum0 = 0
 
-    return sfd
+    return fd
+
+
+def calculateSFD(mb1, mb2):
+    pass
 
 
 def encode_type(mb, type_mode):

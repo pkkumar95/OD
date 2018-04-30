@@ -2,8 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef9e8f5c-a8c3-43da-8438-45cdf8581239" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg-20180429-cae6f80-win64-static.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/bin/ffmpeg.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/bin/ffplay.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/bin/ffprobe.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/developer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/fate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffmpeg-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffmpeg-bitstream-filters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffmpeg-codecs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffmpeg-devices.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffmpeg-filters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffmpeg-formats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffmpeg-protocols.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffmpeg-resampler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffmpeg-scaler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffmpeg-utils.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffmpeg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffplay-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffplay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffprobe-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/ffprobe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/general.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/git-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/libavcodec.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/libavdevice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/libavfilter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/libavformat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/libavutil.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/libswresample.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/libswscale.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/mailing-list-faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/nut.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/platform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/doc/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/presets/ffprobe.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/presets/libvpx-1080p.ffpreset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/presets/libvpx-1080p50_60.ffpreset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/presets/libvpx-360p.ffpreset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/presets/libvpx-720p.ffpreset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffmpeg/presets/libvpx-720p50_60.ffpreset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/video_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/video_frame.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,25 +58,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="video_frame.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="video_frame.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/video_frame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="281">
+              <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iframe-probe.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="iframe-probe.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iframe-probe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+            <state relative-caret-position="259">
+              <caret line="114" column="11" lean-forward="true" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
               <folding>
-                <element signature="e#672#709#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,8 +94,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/video_frame.py" />
         <option value="$PROJECT_DIR$/iframe-probe.py" />
+        <option value="$PROJECT_DIR$/video_frame.py" />
       </list>
     </option>
   </component>
@@ -164,7 +204,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -173,7 +212,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.25974026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22889611" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28733766" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="right" id="Kite Autosearch" order="3" />
@@ -218,20 +257,14 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/video_frame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/iframe-probe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2354">
           <caret line="107" selection-start-line="107" selection-end-line="107" />
           <folding>
-            <element signature="e#672#709#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -240,9 +273,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -259,9 +289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -278,9 +305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1650">
           <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -291,9 +315,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1672">
           <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -301,9 +322,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1408">
           <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -323,23 +341,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/video_frame.py">
+    <entry file="file://$PROJECT_DIR$/iframe-probe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="259">
+          <caret line="114" column="11" lean-forward="true" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iframe-probe.py">
+    <entry file="file://$PROJECT_DIR$/video_frame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-          <folding>
-            <element signature="e#672#709#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="281">
+          <caret line="47" column="8" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
         </state>
       </provider>
     </entry>
